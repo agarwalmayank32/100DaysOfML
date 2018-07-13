@@ -7,3 +7,14 @@
 ### Day 1: July 11, 2018
 
 **Today's Progress**: Completed learning the Basics of Linear Algebra from [3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) Youtube channel. Next will start Linear algebra from MIT Courseware.
+
+### Day 2: July 12, 2018
+
+**Today's Progress**: Started learning the Basics of Linear Algebra from MITOpenCourseWare just to see if there is anything that is left from the other youtube channel
+
+### Day 3: July 13, 2018
+
+**Today's Progress**: Completed learning the Basics of Linear Algebra from MITOpenCourseWare. Started Calculus from [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) youtube channel
+
+**Comment**: Feeling Good till now while Revising Linear Algebra and Calculus
+
