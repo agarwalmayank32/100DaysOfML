@@ -16,5 +16,6 @@
 
 **Today's Progress**: Completed learning the Basics of Linear Algebra from MITOpenCourseWare. Started Calculus from [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) youtube channel
 
-**Comment**: Feeling Good till now while Revising Linear Algebra and Calculus
+### Day 4: July 14, 2018
 
+**Today's Progress**: Completed calculus. Started Probability from [EDX](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
