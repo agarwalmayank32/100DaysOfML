@@ -19,3 +19,9 @@
 ### Day 4: July 14, 2018
 
 **Today's Progress**: Completed calculus. Started Probability from [EDX](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+
+### Day 5: July 15, 2018
+
+**Today's Progress**: Nothing as I was not well today
+
+
