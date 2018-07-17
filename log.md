@@ -24,4 +24,6 @@
 
 **Today's Progress**: Nothing as I was not well today
 
+### Day 6: July 16, 2018
 
+**Today's Progress**: Continued with Probability from [EDX](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
