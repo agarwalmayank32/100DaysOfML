@@ -1,7 +1,9 @@
 from sklearn.datasets import load_breast_cancer
 from sklearn.model_selection import train_test_split
-from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import accuracy_score
+from sklearn.neighbors import KNeighborsClassifier 
+
+import matplotlib.pyplot as plt
 
 # Load dataset
 data = load_breast_cancer()
@@ -24,15 +26,16 @@ train, test, train_labels, test_labels = train_test_split(features,
                                                           test_size=0.33,
                                                           random_state=42)
 
-# Initialize our classifier
-gnb = GaussianNB()
+k_range = range(1,30)
+scores = []
+for k in k_range:
+	knn = KNeighborsClassifier(n_neighbors=k)
+	model = knn.fit(train, train_labels)
+	preds = knn.predict(test)
+	scores.append(accuracy_score(test_labels, preds))
+	print(accuracy_score(test_labels, preds))
 
-# Train our classifier
-model = gnb.fit(train, train_labels)
-
-# Make predictions
-preds = gnb.predict(test)
-print(preds)
-
-# Evaluate accuracy
-print(accuracy_score(test_labels, preds))
+plt.plot(k_range,scores)
+plt.xlabel("Value of k for KNN")
+plt.ylabel("Testing Accuracy")
+plt.show()

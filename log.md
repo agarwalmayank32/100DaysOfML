@@ -36,5 +36,9 @@
 
 **Today's Progress**: Using the code from the [Siraj Raval Video](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU) built an example to predict the gender using different Algorithms like Logistic Regression, DecisionTreeClassifier, KNeighborsClassifier, LinearDiscriminantAnalysis, GaussianNB and SVC. 
 Learnt the shortfall of using the same(Complete) dataset for classification and testing from this [Video](https://www.youtube.com/watch?v=0pP4EwWJgIU). 
-Also tried Comparing Different Algorithms and found accuracy for the Algorithms on the [Breast Cancer Dataset](http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html).  
+Also tried Comparing Different Algorithms and finding accuracy for the Algorithms on the [Breast Cancer Dataset](http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html).  
 
+### Day 9: July 19, 2018
+
+**Today's Progress**: Tried Comparing Different k values for KNN Algorithms and finding accuracy for different k values on the [Breast Cancer Dataset](http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html) 
+using the Train/Test Model and Cross Validation Model using [this Video](https://www.youtube.com/watch?v=6dbrR-WymjI). Also compared different algorithms and found accuracy using Cross Validation Model.
