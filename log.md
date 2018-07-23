@@ -42,3 +42,9 @@ Also tried Comparing Different Algorithms and finding accuracy for the Algorithm
 
 **Today's Progress**: Tried Comparing Different k values for KNN Algorithms and finding accuracy for different k values on the [Breast Cancer Dataset](http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html) 
 using the Train/Test Model and Cross Validation Model using [this Video](https://www.youtube.com/watch?v=6dbrR-WymjI). Also compared different algorithms and found accuracy using Cross Validation Model.
+
+### Day 10: July 20, 2018
+
+**Today's Progress**: Learnt And Implemented Decision Tree Classifier And Linear Regression
+
+
