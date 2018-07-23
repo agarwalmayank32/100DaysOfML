@@ -47,4 +47,9 @@ using the Train/Test Model and Cross Validation Model using [this Video](https:/
 
 **Today's Progress**: Learnt And Implemented Decision Tree Classifier And Linear Regression
 
+### Day 11: July 21, 2018
+
+**Today's Progress**: Learnt And Implemented KNN Classifier And Logistic Regression
+
+
 
