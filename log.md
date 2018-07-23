@@ -55,4 +55,7 @@ using the Train/Test Model and Cross Validation Model using [this Video](https:/
 
 **Today's Progress**: Learnt And Implemented Support Vector Machine and Random Forest Classification
 
+### Day 13: July 23, 2018
+
+**Today's Progress**: Learn And Implemented Random Forest Regression
 
