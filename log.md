@@ -51,5 +51,8 @@ using the Train/Test Model and Cross Validation Model using [this Video](https:/
 
 **Today's Progress**: Learnt And Implemented KNN Classifier And Logistic Regression
 
+### Day 12: July 22, 2018
+
+**Today's Progress**: Learnt And Implemented Support Vector Machine and Random Forest Classification
 
 
