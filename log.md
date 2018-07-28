@@ -57,5 +57,20 @@ using the Train/Test Model and Cross Validation Model using [this Video](https:/
 
 ### Day 13: July 23, 2018
 
-**Today's Progress**: Learn And Implemented Random Forest Regression
+**Today's Progress**: Learnt And Implemented Random Forest Regression
 
+### Day 14: July 24, 2018
+
+**Today's Progress**: Learnt Different Data Processing Techniques and their benefits
+
+### Day 15: July 25, 2018
+
+**Today's Progress**: Learnt Multiple Linear Regression
+
+### Day 16: July 26, 2018
+
+**Today's Progress**: Implemented Multiple Linear Regression with Backward Elimination Model
+
+### Day 17: July 27, 2018
+
+**Today's Progress**: Learnt Polynomial Linear Regression
